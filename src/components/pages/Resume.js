@@ -20,7 +20,7 @@ const onButtonClick = () => {
           // Setting various property values
           let alink = document.createElement('a');
           alink.href = fileURL;
-          alink.download = 'ls_resume_web_developer.pdf';
+          alink.download = 'Laura_Sandura_Web_Development_Resume_2022_November.pdf';
           alink.click();
       })
   })
