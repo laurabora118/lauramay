@@ -27,4 +27,4 @@ References:
     1 - Original expectations received in UofA bootcamp assignments where the react lessons were utilized to help accomplish and also refactored code to create portfolio
 
 MIT License:
-    ![MIT License](assets/mitlicense.jpg)
+    ![MIT License](public/assets/mitlicense.jpg)
