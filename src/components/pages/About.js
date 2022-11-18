@@ -14,9 +14,9 @@ export default function About() {
       <div className="container">
       {/* <h3>About Me</h3> */}
       <ul className="About">
-        <p>Wherever I can I love to make differences in peoples lives, it is the clock ticker in me.</p>
-        <p>I am a regular person that strives to live life everyday with purpose. Most people would say that I am detail orientated and resourceful.</p>
-        <p>Web development has been a big part of my life and it wasn't until now that I took it to the next level.</p> 
+        <p>Wherever I can I love to help others and make differences their lives.</p>
+        <p>I strive to live life everyday with purpose. Most people would say that I am detail orientated and resourceful.</p>
+        <p>Web development has been a big part of my life and it wasn't until recently that I took it to the next level.</p> 
         <p>I am a business owner and will always look to a life work balance and meaningful goals!</p>
       </ul>
       </div>
