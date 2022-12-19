@@ -53,18 +53,25 @@ export default function Project() {
         
       <ul>
       <h4 style={styles.titleStyle} className="card">Team Project 1</h4>
+        <ul>I was project Manager</ul>
         <ul><a href="https://github.com/laurabora118/Project1TeamPluto">GitHub</a></ul>
         <ul><a href="https://laurabora118.github.io/Project1TeamPluto">Deployed Page</a></ul>
+        <ul><a href=""></a>Original Wireframe Plan</ul>
+        <ul><a href=""></a>Class Presentation</ul>
+        <ul><a href="www.sunscout.co"></a>Live Site</ul>
         </ul>
       <ul>
       <h4 style={styles.titleStyle} className="card">Team Project 2</h4>
+      <ul>I managed the parent view for the events content, implemented the google search and the data for local events plus creative content images for the page</ul>
       <ul><a href="https://github.com/alexiaValen/Manticore">GitHub</a></ul>
       <ul><a href="https://glacial-sierra-66630.herokuapp.com">Deployed Heroku Page</a></ul>
+      <ul><a href="">Video Presentation</a></ul>
       </ul>
       <ul>
       <h4 style={styles.titleStyle} className="card">Team Project 3</h4>
       <ul><a href="https://github.com/SonnyAddison/payme_now">GitHub</a></ul>
       <ul><a href="https://git.heroku.com/payme-now.git">Deployed Heroku Page</a></ul>
+      <ul><a href="">Video Presentation</a></ul>
       </ul>
       <ul>
       <h4 style={styles.titleStyle} className="card">React Portfolio</h4>
