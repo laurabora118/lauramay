@@ -24,6 +24,10 @@ export default function Project() {
         <ul><a href="https://youtu.be/bfj3i1d5aws">Client sites built on GoDaddy</a></ul>
       </ul>
       <ul>
+        <h4 style={styles.titleStyle} className="card">Past Website Experience</h4>
+        <ul><a href="https://laurasthoughts770813441.wordpress.com/">Simple blog built on Wordpress</a></ul>
+      </ul>
+      <ul>
         <h4 style={styles.titleStyle} className="card">Accessibility Challenge</h4>
         <ul><a href="https://github.com/laurabora118/uofa-module1-accessibilitychallenge-lsandura">GitHub</a></ul>
         <ul><a href="https://laurabora118.github.io/uofa-module1-accessibilitychallenge-lsandura">Deployed Page</a></ul>

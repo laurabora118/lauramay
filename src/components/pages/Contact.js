@@ -1,7 +1,7 @@
 //The Contact section has a form name, email and message and the form shows notification that the field is required if it is not filled in, and if the email is invalid it shows a message.
 
 import React from 'react';
-import lauracard from '../../components/images/mybusiensscard.jpg';
+import lauracard from '../../components/images/mybusinesscard.jpg';
 
 const styles = {
   aboutStyle: {
