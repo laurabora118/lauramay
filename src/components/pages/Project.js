@@ -49,6 +49,8 @@ export default function Project() {
         <ul><a href="https://github.com/laurabora118/uofa-module9-readmegenerator-lsandura">GitHub</a></ul>
         <ul><a href="https://laurabora118.github.io/uofa-module9-readmegenerator-lsandura">Deployed Page</a></ul>      
         </ul>
+        <ul><a href="https://drive.google.com/file/d/1JLmAVXm4vhq-1Gxser9j2dK5H2UBXX8O/view">Video Tutorial</a></ul>      
+        
       <ul>
       <h4 style={styles.titleStyle} className="card">Team Project 1</h4>
         <ul><a href="https://github.com/laurabora118/Project1TeamPluto">GitHub</a></ul>

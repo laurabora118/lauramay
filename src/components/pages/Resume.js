@@ -13,7 +13,7 @@ const styles = {
 // Function will execute on click of button
 const onButtonClick = () => {
   // using Java Script method to get PDF file
-  fetch('Laura_Sandura_Web_Development_Resume_2022_November.pdf').then(response => {
+  fetch('laura_sandura_web_dev_resume_Dec_2022.pdf').then(response => {
       response.blob().then(blob => {
           // Creating new object of PDF file
           const fileURL = window.URL.createObjectURL(blob);
