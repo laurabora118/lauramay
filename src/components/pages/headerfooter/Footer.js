@@ -5,7 +5,7 @@ import React from 'react';
 
 const styles = {
   footerStyle: {
-    background: '#70CE4E',
+    background: '#aba2b0',
   },
 };
 
@@ -16,10 +16,10 @@ export default function Footer() {
     <nav style={styles.footerStyle} className="footersection">
     <div className="container">
         <h5>Connect with Laura online:</h5>
-        <ul><h5><a href="https://laurasandura.com/">Laura Sandura Site</a></h5></ul>
+        <ul><h5><a href="https://laurasandura.com/">Laura Sandura Professional Site</a></h5></ul>
         <ul><h5><a href="https://github.com/laurabora118">GitHub</a></h5></ul>
         <ul><h5><a href="https://www.linkedin.com/in/laurasandura">LinkedIn</a></h5></ul>
-        <ul><a href="https://www.canva.com/design/DAFVK-73Y9Y/Mn1kvqwDX1Oidteh8K4GgQ/view?utm_content=DAFVK-73Y9Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Get My Business Card</a></ul>
+        <ul><h5><a href="https://www.canva.com/design/DAFVK-73Y9Y/Mn1kvqwDX1Oidteh8K4GgQ/view?utm_content=DAFVK-73Y9Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Get My Business Card</a></h5></ul>
         <ul> </ul>
         <ul> </ul>
         <ul> </ul>

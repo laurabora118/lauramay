@@ -1,8 +1,9 @@
 
 #root {
 background-color: rgb(68, 98, 190);
-width:100vw;
-height: 100vh;
+height: 480vh;
+}
+/* width:500vw;
 }
 /*     4 - Used https://coolors.co/70ce4e to pick split color schemes selected Lime Green 70CE4E Purple 824FCF Pink CF4FC6 and 16300D Dark Green for  */
 /* .form {

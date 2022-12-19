@@ -15,14 +15,14 @@ export default function Header() {
     <nav style={styles.headerStyle} className="headersection">
     <div className="container">
     <div className = "lauraimage">
-          <img src = {Lauraimage} alt="laura sandura pic" style ={{
+          <img src = {Lauraimage} alt="professional woman by www.LimbicPhotography.com" style ={{
                                        display: 'block',
                                        border: '10px solid purple',
                                        boxshawdow: '10px 10px',
                                        marginTop: '5px',
                                        marginBottom: '2px',
-                                       width:'10%', 
-                                       height:'10%'
+                                       width:'15%', 
+                                       height:'15%'
                               
           }}></img>
       <h1>Laura Sandura</h1>

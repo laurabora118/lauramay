@@ -13,7 +13,7 @@ const styles = {
 // Function will execute on click of button
 const onButtonClick = () => {
   // using Java Script method to get PDF file
-  fetch('laura_sandura_web_dev_resume_Dec_2022.pdf').then(response => {
+  fetch('Laura_Sandura_web_dev_12.2022.pdf').then(response => {
       response.blob().then(blob => {
           // Creating new object of PDF file
           const fileURL = window.URL.createObjectURL(blob);
@@ -51,6 +51,7 @@ export default function Resume() {
       <button onClick={onButtonClick}>
               Download Laura Sandura Resume
         </button>
+        <ul></ul>
       </div>  
       </nav>
     </div>
