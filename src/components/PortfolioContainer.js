@@ -9,8 +9,9 @@ import Contact from './pages/Contact';
 import Header from './pages/headerfooter/Header';
 import Footer from './pages/headerfooter/Footer';
 import Bottomnav from './pages/headerfooter/Bottomnav';
-import Form from './pages/contactform/Form';
+// import Form from './pages/contactform/Form';
 import Project from './pages/Project';
+import Marketing from './pages/Marketing';
 // import Lauraimage from '../images/mypic.jpg';
 import './styles/style.css';
 
@@ -25,8 +26,11 @@ export default function PortfolioContainer() {
     if (currentPage === 'Portfolio') {
       return <div><Header /> <TitlePortfolio /> <Project /> <Footer /> <Bottomnav /></div>;
     }
+    if (currentPage === 'Marketing') {
+      return <div><Header /> <TitlePortfolio /> <Marketing /> <Footer /> <Bottomnav /></div>;
+    }
     if (currentPage === 'Contact') {
-      return <div><Header /> <Contact /> <Form /> <Footer /> <Bottomnav /></div>;
+      return <div><Header /> <Contact /> <Footer /> <Bottomnav /></div>;
     }
     if (currentPage === 'Resume') {
       return <div><Header /> <TitleResume /> <Resume /> <Footer /> <Bottomnav /></div>;
