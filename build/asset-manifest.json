@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0316430.css",
-    "main.js": "/static/js/main.d77efeaf.js",
+    "main.css": "/static/css/main.3eba315c.css",
+    "main.js": "/static/js/main.91679b59.js",
+    "static/media/paymenow4.jpg": "/static/media/paymenow4.4ff94db533ec90fe41f3.jpg",
+    "static/media/paymenow2.jpg": "/static/media/paymenow2.4100590fd8053c7f87db.jpg",
+    "static/media/paymenow1.jpg": "/static/media/paymenow1.2c8dd63f8ee027dc264e.jpg",
+    "static/media/paymenow3.jpg": "/static/media/paymenow3.cd5b7ec38685fddd2b5c.jpg",
     "static/media/mypic.jpg": "/static/media/mypic.1ca467684752e95a144c.jpg",
+    "static/media/jumpropeclass.jpg": "/static/media/jumpropeclass.8eb7176633c9ba53cd47.jpg",
     "static/media/businesscardpic.jpg": "/static/media/businesscardpic.31508b9b22c5a0e503da.jpg",
+    "static/media/jumpropeflyer.jpg": "/static/media/jumpropeflyer.b2c0bfcd71f16ce65a0b.jpg",
+    "static/media/bingteaadpicture.jpg": "/static/media/bingteaadpicture.51f69abf49cf17a1afe2.jpg",
+    "static/media/lifecoachadpicture.jpg": "/static/media/lifecoachadpicture.5a1ee7d978ba213bb4a5.jpg",
     "index.html": "/index.html",
-    "main.b0316430.css.map": "/static/css/main.b0316430.css.map",
-    "main.d77efeaf.js.map": "/static/js/main.d77efeaf.js.map"
+    "main.3eba315c.css.map": "/static/css/main.3eba315c.css.map",
+    "main.91679b59.js.map": "/static/js/main.91679b59.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0316430.css",
-    "static/js/main.d77efeaf.js"
+    "static/css/main.3eba315c.css",
+    "static/js/main.91679b59.js"
   ]
 }
