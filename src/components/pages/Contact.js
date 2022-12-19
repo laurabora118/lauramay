@@ -1,7 +1,7 @@
 //The Contact section has a form name, email and message and the form shows notification that the field is required if it is not filled in, and if the email is invalid it shows a message.
 
 import React from 'react';
-import Lauracard from '../images/businesscardpic.jpg';
+import lauracard from '../../components/images/mybusiensscard.jpg';
 
 const styles = {
   aboutStyle: {
@@ -16,7 +16,7 @@ export default function Contact() {
     <div>
       <h3>Business Card</h3>
     <div className = "lauracard">
-          <img src = {Lauracard} alt="laura sandura pic" style ={{
+          <img src = {lauracard} alt="laura sandura business card pic" style ={{
                                        display: 'block',
                                        border: '10px black',
                                        boxshawdow: '10px 10px',
