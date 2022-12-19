@@ -26,7 +26,7 @@ export default function PortfolioContainer() {
       return <div><Header /> <TitlePortfolio /> <Project /> <Footer /> <Bottomnav /></div>;
     }
     if (currentPage === 'Contact') {
-      return <div><Header /> <Contact /> <Footer /> <Bottomnav /></div>;
+      return <div><Header /> <Contact /> <Form /> <Footer /> <Bottomnav /></div>;
     }
     if (currentPage === 'Resume') {
       return <div><Header /> <TitleResume /> <Resume /> <Footer /> <Bottomnav /></div>;
