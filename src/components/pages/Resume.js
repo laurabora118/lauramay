@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import LauraResume from '../../../public/assets/Laura_Sandura_web_dev_12.2022.pdf'
+import LauraResume from '../examples/Laura_Sandura_web_dev_12.2022.pdf'
 
 const styles = {
   resumeStyle: {
