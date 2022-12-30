@@ -2,6 +2,7 @@
 
 import React from 'react';
 
+import LauraResume from '../../../public/assets/Laura_Sandura_web_dev_12.2022.pdf'
 
 const styles = {
   resumeStyle: {
@@ -13,14 +14,14 @@ const styles = {
 // Function will execute on click of button
 const onButtonClick = () => {
   // using Java Script method to get PDF file
-  fetch('Laura_Sandura_web_dev_12.2022.pdf').then(response => {
+  fetch({LauraResume}).then(response => {
       response.blob().then(blob => {
           // Creating new object of PDF file
           const fileURL = window.URL.createObjectURL(blob);
           // Setting various property values
           let alink = document.createElement('a');
           alink.href = fileURL;
-          alink.download = 'Laura_Sandura_web_dev_12.2022.pdf';
+          alink.download = {LauraResume};
           alink.click();
       })
   })
